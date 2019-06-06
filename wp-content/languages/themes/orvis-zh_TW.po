@@ -1,0 +1,291 @@
+# Translation of Themes - Orvis in Chinese (Taiwan)
+# This file is distributed under the same license as the Themes - Orvis package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-06-02 16:49:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Themes - Orvis\n"
+
+#. Theme Name of the plugin/theme
+msgid "Orvis"
+msgstr "Orvis"
+
+#. Description of the plugin/theme
+msgid "Orvis is a portfolio theme crafted with designers and photographers in mind. It's a minimalist, powerful, and flexible theme that puts the focus on your projects."
+msgstr "Orvis 是一款以設計師及攝影師為設計發想核心的作品集佈景主題，它同時也是一款可用於展示專案成果，具備輕量化、強大靈活特色的佈景主題。"
+
+#: inc/plugin-enhancements.php:169
+msgid "Content Options"
+msgstr "內容選項"
+
+#: inc/plugin-enhancements.php:398
+msgid "Your request failed permission check."
+msgstr "這項要求無法通過權限檢查。"
+
+#: inc/plugin-enhancements.php:405
+msgid "Your request was processed. See ya!"
+msgstr "這項要求已處理完畢。"
+
+#: single.php:30
+msgid "Published in"
+msgstr "關聯內容:"
+
+#: inc/plugin-enhancements.php:106
+msgid "Site Logo"
+msgstr "網站標誌"
+
+#: inc/plugin-enhancements.php:115
+msgid "Featured Content"
+msgstr "精選內容"
+
+#: inc/plugin-enhancements.php:124
+msgid "Social Menu"
+msgstr "社群網路連結選單"
+
+#: inc/plugin-enhancements.php:133
+msgid "Menus"
+msgstr "選單"
+
+#: inc/plugin-enhancements.php:142
+msgid "Comics"
+msgstr "漫畫"
+
+#: inc/plugin-enhancements.php:151
+msgid "Testimonials"
+msgstr "證言集"
+
+#: inc/plugin-enhancements.php:160
+msgid "Portfolios"
+msgstr "作品集"
+
+#. Template Name of the plugin/theme
+msgid "Portfolio Page Template"
+msgstr "作品集頁面範本"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "很抱歉，找不到符合條件的頁面。"
+
+#: 404.php:29
+msgid "Most Used Categories"
+msgstr "常用分類"
+
+#. translators: %1$s: smiley
+#: 404.php:46
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "請在每月彙整中尋找文章。%1$s"
+
+#: comments.php:54
+msgid "Comments are closed."
+msgstr "留言功能已關閉。"
+
+#: footer.php:21
+msgid "https://wordpress.org/"
+msgstr "https://tw.wordpress.org/"
+
+#: footer.php:21
+msgid "Proudly powered by %s"
+msgstr "本站採用 %s 建置"
+
+#: footer.php:23
+msgid "Theme: %1$s by %2$s."
+msgstr "佈景主題採用 %2$s 所設計的 %1$s"
+
+#: functions.php:57 header.php:42
+msgid "Primary Menu"
+msgstr "主要選單"
+
+#: functions.php:106
+msgid "Sidebar"
+msgstr "資訊欄"
+
+#. translators: If there are characters in your language that are not supported
+#. by Karla, translate this to 'off'. Do not translate into your own language.
+#: functions.php:130
+msgctxt "Karla font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:162
+msgid "expand child menu"
+msgstr "展開子選單"
+
+#: functions.php:163
+msgid "collapse child menu"
+msgstr "收合子選單"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "跳至主要內容"
+
+#: header.php:40
+msgid "Menu"
+msgstr "選單"
+
+#: inc/customizer.php:24
+msgid "Hide page title on Portfolio Page Template"
+msgstr "在 [作品集頁面範本] 中隱藏頁面標題"
+
+#: inc/jetpack.php:94 inc/jetpack.php:188
+#: template-parts/content-portfolio-archive.php:32
+msgid "Older projects"
+msgstr "較舊的專案"
+
+#: inc/jetpack.php:95 template-parts/content-portfolio-archive.php:33
+msgid "Newer projects"
+msgstr "較新的專案"
+
+#: inc/jetpack.php:96 template-parts/content-portfolio-archive.php:34
+msgid "Portfolio navigation"
+msgstr "作品集導覽"
+
+#: inc/plugin-enhancements.php:82
+msgid "The %1$s is necessary to use some of this theme&rsquo;s features, including: "
+msgstr "這個佈景主題的特定功能需要 %1$s才能使用，包含: "
+
+#: inc/plugin-enhancements.php:83
+msgid "Jetpack plugin"
+msgstr "Jetpack 外掛"
+
+#: inc/plugin-enhancements.php:187
+msgid "no specific module needed"
+msgstr "不需特定模組"
+
+#: inc/plugin-enhancements.php:188
+msgid "Custom Content Types module"
+msgstr "[自訂內容類型] 模組"
+
+#: inc/plugin-enhancements.php:265
+msgid " Please activate %1$s. %2$s"
+msgstr "請啟用 %1$s。%2$s"
+
+#: inc/plugin-enhancements.php:267
+msgid "Activate"
+msgstr "啟用"
+
+#: inc/plugin-enhancements.php:275
+msgid " Please install %1$s. %2$s"
+msgstr "請安裝 %1$s。%2$s"
+
+#: inc/plugin-enhancements.php:277
+msgid "Install"
+msgstr "安裝"
+
+#: inc/plugin-enhancements.php:302
+msgid "To use %1$s, please activate the Jetpack plugin&rsquo;s %2$s."
+msgstr "如需使用 [%1$s] 功能，請先啟用 Jetpack 外掛的 [%2$s] 模組。"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:18 inc/template-tags.php:27 inc/template-tags.php:67
+#: inc/template-tags.php:73
+msgid ", "
+msgstr "、"
+
+#: inc/template-tags.php:57
+msgid "Featured Post"
+msgstr "精選內容"
+
+#: inc/template-tags.php:81
+msgid "Leave a comment"
+msgstr "發佈留言"
+
+#: inc/template-tags.php:81
+msgid "1 Comment"
+msgstr "1 則留言"
+
+#: inc/template-tags.php:81
+msgid "% Comments"
+msgstr "% 則留言"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:88 template-parts/content-page.php:38
+msgid "Edit %s"
+msgstr "編輯 %s"
+
+#: page-templates/portfolio-page.php:27 template-parts/content-page.php:23
+#: template-parts/content-portfolio-single.php:22
+#: template-parts/content-single.php:25 template-parts/content.php:31
+msgid "Pages:"
+msgstr "頁次:"
+
+#: page-templates/portfolio-page.php:35
+msgid "Edit"
+msgstr "編輯"
+
+#: page-templates/portfolio-page.php:77 template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "找不到符合條件的結果"
+
+#: page-templates/portfolio-page.php:83
+msgid "Ready to publish your first project? <a href=\"%1$s\">Get started here</a>."
+msgstr "準備發佈第一個專案嗎？請從<a href=\"%1$s\">這裡</a>開始。"
+
+#: page-templates/portfolio-page.php:87 template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "找不到符合條件的內容。請使用搜尋功能，應會有所幫助。"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "「%s」的搜尋結果"
+
+#: single-jetpack-portfolio.php:26 single.php:35
+msgid "Next"
+msgstr "下一篇"
+
+#: single-jetpack-portfolio.php:27 single.php:36
+msgid "Next post:"
+msgstr "下一篇文章:"
+
+#: single-jetpack-portfolio.php:29 single.php:38
+msgid "Previous"
+msgstr "上一篇"
+
+#: single-jetpack-portfolio.php:30 single.php:39
+msgid "Previous post:"
+msgstr "下一篇文章:"
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "準備發佈第一篇文章了嗎？請從<a href=\"%1$s\">這裡</a>開始。"
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "很抱歉，找不到符合搜尋條件的結果，請以不同的關鍵字重試。"
+
+#: template-parts/content-page.php:27
+#: template-parts/content-portfolio-single.php:26
+#: template-parts/content-single.php:29 template-parts/content.php:35
+msgid "Page"
+msgstr "頁次"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:25
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "閱讀全文 %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:27
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "在〈%2$s〉中有 %1$s 則留言"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "在這裡找不到符合條件的項目，請改用以下連結或使用搜尋功能。"
+
+#. Author of the plugin/theme
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Author URI of the plugin/theme
+msgid "https://wordpress.com/themes/"
+msgstr "https://wordpress.com/themes/"
+
+#. Theme URI of the plugin/theme
+msgid "https://wordpress.com/themes/orvis/"
+msgstr "https://wordpress.com/themes/orvis/"
